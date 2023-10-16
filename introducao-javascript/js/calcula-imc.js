@@ -1,5 +1,5 @@
 var title = document.querySelector(".title");
-title.textContent = "aparecida nutricionista";
+title.textContent = "Tabela Nutricional";
 
 var pacientes = document.querySelectorAll(".paciente");
 
